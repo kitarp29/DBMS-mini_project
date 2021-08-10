@@ -1,0 +1,30 @@
+{
+  "name": "DBMS-project-without-dbms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gaurav7888/DBMS-project-without-dbms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gaurav7888/DBMS-project-without-dbms/issues"
+  },
+  "homepage": "https://github.com/Gaurav7888/DBMS-project-without-dbms#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-session": "^1.4.0",
+    "dotenv": "^10.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.6",
+    "mongoose-findorcreate": "^3.0.0",
+    "nodemon": "^2.0.12"
+  }
+}
